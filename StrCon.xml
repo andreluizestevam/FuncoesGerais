@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conexoes>
+	<conexao nome="connectionString_GCMONLINEv300" str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=GCMOnline_V300_QAS;user id=USR#PCD_QAS; pwd=pcd_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_GCMONLINE"     str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=GCMONLINE_QAS;user id=USR#PCD_QAS; pwd=pcd_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_ENQUETE"       str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=ENQUETE_QAS;user id=USR#PCD_QAS; pwd=pcd_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_SGO"           str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=SFC_QAS;user id=USR#SFC_QAS;password=sfc_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_SISCEM"        str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=SISCEM_QAS ;user id=USR#SISCEM_QAS; pwd=siscem_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_SISCOP"        str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=SISCOP_QAS ;user id=USR#SISCOP_QAS; pwd=siscop_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_WINNER"        str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=WINNER_QAS;user id=USR#WINNER_QAS;password=winner_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_SISVENC"       str="Data Source=sdb00.uniaoquimica.com.br;initial Catalog=SISVENC_QAS;user id=USR#SISVENC_QAS; password=sisvenc_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_SISGEM"        str="Data Source=sdb00.uniaoquimica.com.br;initial catalog=SISGEM_QAS;user id=USR#SISGEM_QAS; password=sisgem_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_SISAC"         str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=SISAC_QAS;user id=USR#SISAC_QAS; pwd=sisac_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_COMISSOES"     str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=COMISSOES_QAS;user id=USR#COMISSOES_QAS; pwd=comissoes_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+    <conexao nome="connectionString_SFF"           str="Data Source=sdb00.uniaoquimica.com.br;Initial Catalog=SFF_QAS;user id=USR#SFF_QAS; pwd=sff_qas@2014$; Min Pool Size=0; Max Pool Size=10000;" />
+</conexoes>
